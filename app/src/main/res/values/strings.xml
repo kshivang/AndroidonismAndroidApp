@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Androidonism</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="android_resources">Android Resources</string>
+    <string name="library">Library</string>
+    <string name="my_blog">My blog</string>
+    <string name="forum">Forum</string>
+    <string name="cv">CV</string>
+    <string name="about">About</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/androidResources"
+            android:icon="@drawable/ic_description"
+            android:title="@string/android_resources"/>
+        <item
+            android:id="@+id/library"
+            android:icon="@drawable/ic_book"
+            android:title="@string/library"/>
+        <item
+            android:id="@+id/my_blog"
+            android:icon="@drawable/ic_chrome_reader_mode"
+            android:title="@string/my_blog"/>
+        <item
+            android:id="@+id/forum"
+            android:icon="@drawable/ic_forum"
+            android:title="@string/forum"/>
+        <item
+            android:id="@+id/cv"
+            android:icon="@drawable/ic_card_membership"
+            android:title="@string/cv"/>
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_face"
+            android:title="@string/about"/>
+    </group>
+
+</menu>
